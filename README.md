@@ -2,13 +2,15 @@
 
 ---
 
-## À propos de moi:
+## À propos de moi: 🙅‍♂️
 
 Je suis un étudiant en informatique passionné par le monde de **Linux** et de l'**art ASCII**. Je suis un amoureux de la **cybersécurité**, un <span style="color:\#FF0000;">**Red Hat lover**</span> et je me considère comme un <span style="color:\#FFD700;">**ethical hacker**</span> en devenir. Mon but est d'apprendre et de maîtriser les outils pour rendre le monde numérique plus sûr, un système à la fois.
 
+|| J AIME L ANONYMAT  ET LA SÉCURITÉ , J AIME LE MASQUE  DE L INCONNU QUE PERSONNE  NE REGARDR ||
+
 ---
 
-## Mes Intérêts:
+## Mes Intérêts: 🔰
 
 ### Linux: 🐧
 
@@ -55,7 +57,7 @@ J'aime automatiser les tâches et écrire des scripts pour rendre mon travail pl
 
 ---
 
-## Licence:
+## Licence: ♻️
 
 Ce profil est sous licence **<span style="color:\#FF0000;">GNU General Public License v3.0</span>**.
 
