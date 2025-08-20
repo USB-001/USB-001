@@ -6,6 +6,10 @@
 
 Je suis un étudiant en informatique passionné par le monde de **Linux** et de l'**art ASCII**. Je suis un amoureux de la **cybersécurité**, un <span style="color:\#FF0000;">**Red Hat lover**</span> et je me considère comme un <span style="color:\#FFD700;">**ethical hacker**</span> en devenir. Mon but est d'apprendre et de maîtriser les outils pour rendre le monde numérique plus sûr, un système à la fois.
 
+Je suis dyslexiques,  discographique,  discalculique, autiste , et fou . mais je suis BxB Not Humain But With A Brain .
+
+> ma phrase préférée est être fou dans un monde fou ça veut dire être normal . mais être normal dans un monde fou c'est être fou .
+
 || J AIME L ANONYMAT  ET LA SÉCURITÉ , J AIME LE MASQUE  DE L INCONNU QUE PERSONNE  NE REGARDR ||
 
 ---
