@@ -10,6 +10,9 @@ Je suis dyslexiques,  discographique,  discalculique, autiste , et fou . mais je
 
 > ma phrase préférée est être fou dans un monde fou ça veut dire être normal . mais être normal dans un monde fou c'est être fou .
 
+vous savez quoi tout le monde une mauvaise idée de la folie , la fois c'est être capable de penser à réussir là où tout le monde a échoués  , c'est de tenter impensable , TENTER L IMPOSSIBLE , l échec  est et restera  toujours  le fondement  de la réussite  .  ( sais valide uniquement  si tu a un cerveau  et que tu sais l utiliser !!
+
+
 || J AIME L ANONYMAT  ET LA SÉCURITÉ , J AIME LE MASQUE  DE L INCONNU QUE PERSONNE  NE REGARDR ||
 
 ---
