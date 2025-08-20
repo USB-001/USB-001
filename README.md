@@ -32,4 +32,20 @@ J'aime automatiser les tâches et écrire des scripts pour rendre mon travail pl
 
 Ce profil est sous licence **<span style="color:\#FF0000;">GNU General Public License v3.0</span>**.
 
+```bash
+             _.-````'-,_
+   _,.,_ ,-'`           `'-.,_
+ /)     (\                   '``-.
+((      ) )                      `\
+ \)    (_/                        )\
+  |       /)           '    ,'    / \
+  `\    ^'            '     (    /  ))
+    |      _/\ ,     /    ,,`\   (  "`
+     \Y,   |  \  \  | ````| / \_ \
+       `)_/    \  \  )    ( >  ( >
+                \( \(     |/   |/
+    Gnu system  /_(/_(    /_(  /_(
+
+```
+
 ---
